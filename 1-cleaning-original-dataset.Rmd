@@ -8,7 +8,7 @@ output: html_document
 
 ## R Markdown
 
- This dataset has been download from <https://www.kaggle.com/jeanmidev/doctor-who> made and compile by Jean-Michel D. 
+ This dataset has been downloaded from <https://www.kaggle.com/jeanmidev/doctor-who>, made by Jean-Michel D., and compose by:
  
 * [Chakoteya website](http://www.chakoteya.net/DoctorWho/): Compiling ALL the scripts from the different episodes of Doctor Who (all-scripts.csv) and some general information on the episode (all-detailsepisodes.csv)
 * [IMDB](https://www.imdb.com/title/tt0436992/?ref_=ttep_ep_tt) rating of the episode of the modern Who (post 2005) in the imdb_details.csv
